@@ -15,7 +15,7 @@ Outra característica nova desse projeto é que muitas das funcionalidades que s
 
 ### 2.1 Classificação de palavras
 
-O novo _Hangman_ deve prover um mecanismo para **classificar** ou atribuir uma **índice** (ou nota) a uma palavra. Esse índice deve procurar refletir o nível de dificuldade para se adivinhar essa palavra, em comparação a outras palavras ou de forma absoluta (e possível). Ou seja, esse índice deve ajudar a identificar se uma palavra é mais difícil/fácil do que outra E/OU classificar uma palavra como difícil, fácil, etc.
+O novo _Hangman_ deve prover um mecanismo para **classificar** ou atribuir uma **índice** (ou nota) a uma palavra. Esse índice deve procurar refletir o nível de dificuldade para se adivinhar essa palavra, em comparação a outras palavras ou de forma absoluta (se possível). Ou seja, esse índice deve ajudar a identificar se uma palavra é mais difícil/fácil do que outra E/OU classificar uma palavra como difícil, fácil, etc.
 
 Para definir esse mecanismo ou **função**, seu programa deve utilizar um arquivo contendo um estudo do _"Corpus da Língua Portuguesa Brasileira"_, disponível [aqui](https://www.linguateca.pt/acesso/tokens/formas.cbras.txt).
 
