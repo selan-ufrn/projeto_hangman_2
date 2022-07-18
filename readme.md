@@ -209,9 +209,9 @@ Alternativamente, seu programa pode optar por não aceitar que itens essenciais 
 A nova versão do Hangman deverá suportar o uso de palavras acentuadas em Português.
 
 **Opcionalmente**, seu jogo pode aceitar uma configuração de língua.
-Isso quer dizer que se no arquivo de configuração o usuário escolher a língua Portuguesa, tanto a interface quanto as palavras secretas serão escritas em Português. Por outro lado, se o cliente escolher Inglês no mesmo arquivo de configuração, então tanto a interface quanto as palavras secretas serão escritas em Inglês.
+Isso quer dizer que se no arquivo de configuração o usuário escolher a língua portuguesa, tanto a interface quanto as palavras secretas serão escritas em Português. Por outro lado, se o cliente escolher Inglês no mesmo arquivo de configuração, então tanto a interface quanto as palavras secretas serão escritas em Inglês.
 
-Claro, no caso de usar a língua Inglesa, será necessário conseguir um arquivo contendo a avaliação do "_corpus_" em Inglês, de maneira que a mesma estratégia de qualificação de uma palavras que considere a frequência de uso da palavra também seja aplicável. Para mais informações sobre _corpus_ em Inglês visite esse [site](https://www.english-corpora.org/).
+Claro, no caso de usar a língua inglesa, será necessário conseguir um arquivo contendo a avaliação do "_corpus_" em Inglês, de maneira que a mesma estratégia de qualificação de uma palavras que considere a frequência de uso da palavra também seja aplicável. Para mais informações sobre _corpus_ em Inglês visite esse [site](https://www.english-corpora.org/).
 
 ## 3. Nova interface
 
